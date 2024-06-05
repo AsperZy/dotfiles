@@ -157,4 +157,6 @@ fi
 
 set -o vi
 
-export VIMINIT='let $VIMRC="$HOME/.config/vimrc" | source $VIMRC' 
+export VIMINIT='let $VIMRC="$HOME/.config/vimrc" | source $VIMRC'
+
+alias sudo='sudo '

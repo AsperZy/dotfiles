@@ -4,6 +4,8 @@ git clone https://github.com/AsperZy/bspwm.git
 
 cd bspwm
 
-chmod +x install.sh
+chmod +x Instalar.sh
+
+./Instalar.sh && chmod +x install.sh
 
 ./install.sh
